@@ -1,0 +1,29 @@
+.sidediv{
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    border: 1px,solid black;
+    background-color: rgb(133, 151, 231);
+}
+
+.logoimage{
+    height: 40px;
+}
+.imag1{
+    width: 310px;
+    height: 500px;
+    border-radius: 20px  0px 0px 20px;
+   
+  }
+  .hello {
+    width: 90px;
+    height: 50px;
+    margin-left: 20px;
+  }  
+  .login_margin{
+    margin-left: 1050px;
+  }
+  
+  
+  
+  
